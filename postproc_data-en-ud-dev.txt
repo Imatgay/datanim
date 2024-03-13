@@ -20680,8 +20680,7 @@ need O
 to O
 know O
 what O
-kind N
-None 
+kind N 
 food N
 Argentina O
 people N

@@ -211137,7 +211137,6 @@ Dunn H
 , O
 the O
 AG N
-None 
 have O
 the O
 time N
@@ -231386,7 +231385,6 @@ internet N
 connection N
 as O
 slow O
-None 
 mine H
 ( O
 28 O
@@ -245802,7 +245800,6 @@ would O
 do O
 terrible O
 damage N
-None 
 these O
 ships N
 if O
@@ -252731,7 +252728,6 @@ give O
 me H
 the O
 names N
-None 
 some O
 collages N
 that O
@@ -307467,7 +307463,6 @@ $ O
 30 O
 or O
 more O
-None 
 groceries N
 .. O
 
@@ -327811,7 +327806,6 @@ and O
 see O
 all O
 kinds N
-None 
 other O
 people N
 being O
@@ -329209,7 +329203,6 @@ They O
 recently O
 surprised O
 me H
-None 
 a O
 larger O
 order O
